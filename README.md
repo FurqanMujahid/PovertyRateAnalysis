@@ -8,7 +8,7 @@ This project involves performing exploratory data analysis (EDA) on a dataset re
 
 •  **Model Training**: Trained a machine learning model to predict the share of the population living below $1 a day.
 
-•  **Dashboard**: Developed an interactive dashboard using Dash to visualize poverty rates, income distribution, and inequality indicators.
+•  **Dashboard**: Developed an interactive dashboard using Dash and Power BI to visualize poverty rates, income distribution, and inequality indicators.
 
 
 ## Dashboard Features
