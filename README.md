@@ -1,6 +1,6 @@
 # Poverty and Inequality Dashboard
 
-This project involves performing exploratory data analysis (EDA) on a dataset related to poverty and inequality, training a machine learning model, and creating an interactive dashboard to visualize the results.
+This project involves performing exploratory data analysis (EDA) on a dataset related to poverty and inequality, training a machine learning model, and creating an interactive dashboard to visualize the results. **There is a picture of Dashboard Created in Power BI in PovertyRAteDashboardPDF**
 
 ## Project Overview
 
@@ -50,3 +50,4 @@ model = joblib.load('poverty_model.pkl')
 
 # Make predictions
 prediction = model.predict(sample_data)
+
